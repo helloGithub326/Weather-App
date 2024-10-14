@@ -1,0 +1,136 @@
+{
+    "APP_SIZE": [
+        400,
+        500
+    ],
+    "DEFAULT_CITY": "Frisco",
+    "DEFAULT_UNIT": "metric",
+    "SEARCH_BAR_LOCATION": "top",
+    "CITIES_LOCATION": "left",
+    "TEMP_TYPE": "feels_like",
+    "QUICK_CITIES": [
+        "Frisco",
+        "Eluru",
+        "Sydney"
+    ],
+    "WIDGETS_POSITIONS": {
+        "main": {
+            "show": true,
+            "col": 1,
+            "row": 0,
+            "span": 1,
+            "rowspan": 4
+        },
+        "wind": {
+            "show": true,
+            "text": "Wind",
+            "col": 0,
+            "row": 0,
+            "span": 1,
+            "rowspan": 1
+        },
+        "minMax": {
+            "show": true,
+            "text": "High and Low Temperatures",
+            "col": 0,
+            "row": 2,
+            "span": 1,
+            "rowspan": 1
+        },
+        "humidity": {
+            "show": true,
+            "text": "Humidity",
+            "col": 2,
+            "row": 0,
+            "span": 1,
+            "rowspan": 1
+        },
+        "visibility": {
+            "show": true,
+            "text": "Visibility",
+            "col": 2,
+            "row": 1,
+            "span": 1,
+            "rowspan": 1
+        },
+        "sun": {
+            "show": true,
+            "text": "Sunrise and Sunset",
+            "col": 2,
+            "row": 2,
+            "span": 1,
+            "rowspan": 1
+        },
+        "pressure": {
+            "show": true,
+            "text": "Pressure",
+            "col": 0,
+            "row": 1,
+            "span": 1,
+            "rowspan": 1
+        },
+        "forecast": {
+            "show": true,
+            "col": 0,
+            "row": 4,
+            "span": 3,
+            "rowspan": 1
+        }
+    },
+    "WEATHER_COLORS": {
+        "Clear": {
+            "main": "#FFF2D1",
+            "title": "",
+            "text": "#bd6a1f",
+            "divider_color": "#f2eddf",
+            "path": "animations/clear"
+        },
+        "Rain": {
+            "main": "#3079FF",
+            "title": "",
+            "text": "#c1e1ff",
+            "divider_color": "#c1c1c1",
+            "path": "animations/rain"
+        },
+        "Snow": {
+            "main": "#3079FF",
+            "title": "",
+            "text": "#c1e1ff",
+            "divider_color": "#c1c1c1",
+            "path": "animations/snow"
+        },
+        "Clouds": {
+            "main": "#F7F7F7",
+            "title": "",
+            "text": "#7a8aa5",
+            "divider_color": "#d9d9d9",
+            "path": "animations/cloudy"
+        },
+        "Thunderstorm": {
+            "main": "#F7F7F7",
+            "title": "",
+            "text": "#e19329",
+            "divider_color": "#e6e6e6",
+            "path": "animations/thunder"
+        }
+    },
+    "WIDGETS_PADX": 8,
+    "WIDGETS_PADY": 5,
+    "FONT": "Calibri",
+    "MAIN_TEXT_SIZE": 48,
+    "MEDIUM_TEXT_SIZE": 36,
+    "INPUT_FONT_SIZE": 24,
+    "DETAIL_FONT_SIZE": 20,
+    "SMALL_DETAIL_FONT_SIZE": 14,
+    "BUTTON_CORNER_RADIUS": 6,
+    "INPUT_CORNER_RADIUS": 12,
+    "SWITCH_FONT_SIZE": 16,
+    "GREEN": "#50BFAB",
+    "DARK_GREEN": "#3A9A7B",
+    "LIGHT_BLUE": "#8EE6DE",
+    "WHITE": "#F2F2F2",
+    "BLACK": "#1F1F1F",
+    "LIGHT_GRAY": "#E8E8E8",
+    "GRAY": "#D9D9D9",
+    "DARK_GRAY": "#767676"
+}
